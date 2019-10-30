@@ -13,7 +13,7 @@ cask 'lens' do
                       '~/Library/Caches/Lens',
                     ]
 
-  uninstall trash: [
+  zap trash: [
               '~/Library/Application Support/Lens',
-            ]
+             ]
 end
