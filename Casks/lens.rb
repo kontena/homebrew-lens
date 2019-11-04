@@ -1,6 +1,6 @@
 cask 'lens' do
   version '2.4.0'
-  sha256 'e95f0a13a288c15466fbeda91f0fca7aa355c58ab2de7684686fe6e3f77ca916'
+  sha256 'b2423d2c2c31cf84bfe46000644d3451fdfad1a2072a509da7a4c4602314f7d4'
 
   # kontena-lens-desktop.s3-eu-west-1.amazonaws.com was verified as official when first introduced to the cas
   url "https://kontena-lens-desktop.s3-eu-west-1.amazonaws.com/Lens-#{version}.dmg"
